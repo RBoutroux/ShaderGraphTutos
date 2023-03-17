@@ -562,8 +562,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   orbitObject: {fileID: 44555817}
-  orbitSize: 1
-  orbitOffset: 1
+  orbitSize: 3
+  orbitOffset: 0.5
 --- !u!1 &1087911128
 GameObject:
   m_ObjectHideFlags: 0
